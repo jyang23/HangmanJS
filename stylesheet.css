@@ -1,0 +1,84 @@
+.topnav
+{
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+
+.topnav a
+{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover
+{
+    background-color: slategrey;
+    color: white;
+}
+
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div container
+{
+    border-radius: 50px;
+    height: 50px;
+    width: 75px;
+    background-color: white;
+}
+
+.aligncenter
+{
+    text-align: center;
+}
+
+#submit
+{
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    display: inline-block;
+}
+
+.column2
+{
+    border-radius: 12px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    padding: 0.5em 0.75em;
+    text-align: right;
+    margin: auto;
+}
+
+#bun
+{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+#bun2
+{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
